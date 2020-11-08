@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+### My Stats
+[![jini5012's github stats](https://github-readme-stats.vercel.app/api?username=jini5012&show_icons=true&theme=merko)](https://github.com/jini5012)
+
+[![jini5012's github toplang](https://github-readme-stats-mocha-zeta.vercel.app/api/top-langs/?username=jini5012&show_icons=true&theme=merko&layout=compact)](https://github.com/jini5012)
+</div>
+
 <!--
 **coya-coya/coya-coya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
